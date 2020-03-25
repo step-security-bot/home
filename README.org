@@ -1,6 +1,8 @@
 #+TITLE: Home configuration files
 #+FILETAGS: @home infra configuration dotfiles
 
+*This repository is deprecated and won't be updated anymore. It now lives on the [[https://gitlab.com/vdemeester/home][~home~]] repository (on Gitlab)*
+
 * What is ~home~
 :PROPERTIES:
 :CUSTOM_ID: h:0272c5ac-0b7f-4ebb-91f0-defa66c2d285
